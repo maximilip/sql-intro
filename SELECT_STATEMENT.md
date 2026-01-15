@@ -1,5 +1,6 @@
 SELECT ______, ______
 FROM ______
+INNER JOIN ____ ON _____ = _____
 WHERE ______
 (AND _____)
 GROUP BY ______
